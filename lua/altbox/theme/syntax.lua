@@ -30,7 +30,7 @@ _M.setup = function (cs)
     Typedef         = { fg = cs.base.yellow },
     Special         = { fg = cs.base.orange },
     SpecialChar     = {},
-    Tag             = {},
+    Tag             = { fg = cs.base.orange },
     Delimiter       = {},
     SpecialComment  = {},
     Debug           = {},
